@@ -122,4 +122,8 @@
             </fieldset>
         </fields>
     </config>
+	
+    <updateservers>
+        <server type="extension" priority="1" name="TZ Livid Module"><![CDATA[http://joomla.templaza.net/extensions/updates/modules/mod_tz_livid_update.xml]]></server>
+    </updateservers>
 </extension>
